@@ -1,0 +1,31 @@
+#pole {
+    margin: 0 auto;
+    border: 5px solid #040aa0;
+    border-radius: 10px;
+}
+
+td {
+    width: 17px;
+    height: 17px;
+    background-color: black;
+/*    border: 1px solid white;*/
+    border-radius: 5px;
+}
+
+.snake {
+	background-color: #1dad1d;
+}
+
+#1 {
+    background-color: white;
+}
+
+.food {
+    background-color: rgb(255, 0, 0);
+}
+
+#score {
+	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25pt;
+}
